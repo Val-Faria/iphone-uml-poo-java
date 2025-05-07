@@ -1,5 +1,5 @@
 # iphone-uml-poo-java
-# Projeto iPhone com Java (iphoneUmlPooJava)
+# Projeto iPhone com Java (iphone-uml-poo-java)
 
 Este projeto foi desenvolvido como parte de um desafio para praticar os conceitos de Programação Orientada a Objetos (POO) e modelagem com UML usando Java.
 
