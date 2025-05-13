@@ -1,23 +1,31 @@
-# iphone-uml-poo-java
-# Projeto iPhone com Java (iphone-uml-poo-java)
+# 📱 Projeto iPhone com Java (iphone-uml-poo-java)
 
-Este projeto foi desenvolvido como parte de um desafio para praticar os conceitos de Programação Orientada a Objetos (POO) e modelagem com UML usando Java.
+Este projeto foi desenvolvido como parte de um desafio para praticar os conceitos de **Programação Orientada a Objetos (POO)** e modelagem com **UML** usando Java.
 
-O objetivo foi representar as funcionalidades do iPhone como reprodutor musical, aparelho telefônico e navegador de internet, utilizando interfaces e uma classe principal que reúne tudo.
+O objetivo foi representar as funcionalidades do iPhone como:
+- Reprodutor musical
+- Aparelho telefônico
+- Navegador de internet
 
-## Tecnologias e conceitos utilizados
+---
 
-- Java
-- POO (Programação Orientada a Objetos)
-- UML para modelar a estrutura do código
-
-## Objetivos do projeto
+## 🎯 Objetivos do Projeto
 
 - Criar interfaces que representam funcionalidades específicas do iPhone
-- Criar uma classe chamada Iphone que implementa todas essas interfaces
+- Criar uma classe chamada `Iphone` que implementa todas essas interfaces
 - Criar um diagrama UML que mostre a estrutura das classes e interfaces
 
-## Estrutura de pastas
+---
+
+## 🧰 Tecnologias e Conceitos Utilizados
+
+- Java
+- Programação Orientada a Objetos (POO)
+- UML para modelar a estrutura do código
+
+---
+
+## 🗂️ Estrutura de Pastas
 
 iphone-uml-poo-java/
 ├── src/
@@ -31,29 +39,52 @@ iphone-uml-poo-java/
 └── .gitignore
 
 
-## Funcionalidades implementadas
+---
 
-- Reprodutor musical: tocar, pausar e selecionar música
-- Aparelho telefônico: ligar, atender e acessar o correio de voz
-- Navegador de internet: exibir página, adicionar nova aba e atualizar
+## 🔧 Funcionalidades Implementadas
 
-## Diagrama UML
+**Reprodutor musical**
+- Tocar
+- Pausar
+- Selecionar música
 
-O diagrama abaixo mostra como foi feito o relacionamento entre as interfaces e a classe Iphone:
+**Aparelho telefônico**
+- Ligar
+- Atender
+- Acessar o correio de voz
 
-![Diagrama UML](![diagrama-uml-iphone-reprodutor-telefonico-navegador](https://github.com/user-attachments/assets/a644261d-d8ed-436d-8d69-dbe276d4314f)
+**Navegador de internet**
+- Exibir página
+- Adicionar nova aba
+- Atualizar
 
+---
 
-## Como executar
+## 📌 Diagrama UML
+
+O diagrama abaixo mostra o relacionamento entre as interfaces e a classe `Iphone`:
+
+![Diagrama UML](diagram/iphone-diagrama-uml.png)
+
+> Diagrama criado com: [draw.io (diagrams.net)](https://app.diagrams.net)
+
+---
+
+## ▶️ Como executar
 
 1. Clone o repositório:
-git clone https://github.com/Val-Faria/iphone-uml-poo-java.git
-cd iphone-uml-poo-java
-
+   ```bash
+   git clone https://github.com/Val-Faria/iphone-uml-poo-java.git
+   cd iphone-uml-poo-java
+   
 2. Compile os arquivos Java:
    javac src/*.java
    
-4. Execute a classe principal
+3. Execute a classe principal:
    java -cp src Iphone
+   
+*Certifique-se de ter o Java JDK instalado e configurado corretamente em seu sistema.
 
-Certifique-se de ter o Java JDK instalado e configurado corretamente em seu sistema.
+🎥 Link do desafio
+🔗 Vídeo Lançamento iPhone 2017 - YouTube
+
