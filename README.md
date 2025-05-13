@@ -29,12 +29,12 @@ O objetivo foi representar as funcionalidades do iPhone como:
 
 iphone-uml-poo-java/
 ├── src/
-│ ├── ReprodutorMusical.java
-│ ├── AparelhoTelefonico.java
-│ ├── NavegadorInternet.java
-│ └── Iphone.java
+│   ├── ReprodutorMusical.java
+│   ├── AparelhoTelefonico.java
+│   ├── NavegadorInternet.java
+│   └── Iphone.java
 ├── diagram/
-│ └── iphone-diagrama-uml.png
+│   └── iphone-diagrama-uml.png
 ├── README.md
 └── .gitignore
 
