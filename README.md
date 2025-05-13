@@ -48,3 +48,12 @@ O diagrama abaixo mostra como foi feito o relacionamento entre as interfaces e a
 
 1. Clone o repositório:
 git clone https://github.com/Val-Faria/iphone-uml-poo-java.git
+cd iphone-uml-poo-java
+
+2. Compile os arquivos Java:
+   javac src/*.java
+   
+4. Execute a classe principal
+   java -cp src Iphone
+
+Certifique-se de ter o Java JDK instalado e configurado corretamente em seu sistema.
