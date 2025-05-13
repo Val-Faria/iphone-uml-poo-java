@@ -64,7 +64,8 @@ iphone-uml-poo-java/
 
 O diagrama abaixo mostra o relacionamento entre as interfaces e a classe `Iphone`:
 
-![Diagrama UML](diagram/iphone-diagrama-uml.png)
+![diagrama-uml-iphone-reprodutor-telefonico-navegador](https://github.com/user-attachments/assets/1c55cfbf-ab8a-40f1-b56a-078612493715)
+
 
 > Diagrama criado com: [draw.io (diagrams.net)](https://app.diagrams.net)
 
