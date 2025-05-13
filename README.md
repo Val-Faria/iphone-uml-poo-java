@@ -86,6 +86,6 @@ O diagrama abaixo mostra o relacionamento entre as interfaces e a classe `Iphone
    
 *Certifique-se de ter o Java JDK instalado e configurado corretamente em seu sistema.
 
-🎥 Link do desafio
-🔗 Vídeo Lançamento iPhone 2017 - YouTube
+🎥 Link do desafio - https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo
+🔗 Vídeo Lançamento iPhone 2017 - https://www.youtube.com/watch?v=9ou608QQRq8
 
